@@ -1,8 +1,8 @@
 # Minecraft Server Project
 
-> Este proyecto automatiza la configuración y ejecución de un servidor de Minecraft, adaptado del proyecto [LUCAST](https://github.com/Luc4st1574/MSP_MINECRAFT-SERVER-PROJECT).
+Este proyecto automatiza la configuración y ejecución de un servidor de Minecraft. Código extraido del proyecto de [LUCAST](https://github.com/Luc4st1574/MSP_MINECRAFT-SERVER-PROJECT) y adaptado a Python puro.
 
-## Configuración
+## Configuración obligatoria
 
 Configura tu servidor editando las siguientes variables según tus necesidades:
 
@@ -18,6 +18,6 @@ Configura tu servidor editando las siguientes variables según tus necesidades:
 1. Configura las variables mencionadas en tu script.
 2. Ejecuta el script para instalar y configurar el servidor.
 
----
+## Más detalles
 
-Para más detalles, revisa los videos de [LUCAST](https://www.youtube.com/@lucast5740) en YouTube
+Para más detalles, suscribete al canal de [LUCAST](https://www.youtube.com/@lucast5740) y revisa sus últimos videos.
