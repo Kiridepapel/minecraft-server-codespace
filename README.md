@@ -12,6 +12,7 @@ Configura tu servidor editando las siguientes variables según tus necesidades:
 - `server_flags`: Argumentos JVM adicionales para optimizar rendimiento.
 - `tunnel_service`: Servicio de túnel para acceso externo (`ngrok` o `playit`).
 - `authtoken`: Token de autenticación para `ngrok`.
+- `region`: Region de seleccion para `ngrok`.
 
 ## Instrucciones de Uso
 
